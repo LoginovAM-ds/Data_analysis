@@ -1,0 +1,7 @@
+Application conversion: the percentage of responses received to the total number of applications submitted.
+
+Average response time: How long it usually takes for a company to provide a response to a resume.
+
+Comparison of sources: from where you most successfully receive responses and invitations to interviews.
+
+Response Status by Time: Build graphs to determine how the status of your requests changes over time.
